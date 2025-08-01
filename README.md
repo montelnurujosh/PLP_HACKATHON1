@@ -33,6 +33,11 @@ This portfolio is part of the **PLP Hackathon Project**, designed to help me pre
 ---
 
 ## 🗂️ Folder Structure
+├── index.html
+├── style.css
+├── README.md
+├── /images
+├── cv.html(Resume pdf)
 
 
 ---
