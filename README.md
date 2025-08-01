@@ -16,7 +16,8 @@ This portfolio is part of the **PLP Hackathon Project**, designed to help me pre
 
 - **About Me** — A short description of who I am and my interests  
 - **Projects Section** — Highlighted projects I've worked on  
-- **Educational Background** — My academic and learning journey  
+- **Educational Background** — My academic and learning journey
+- **Interests** — A section outlining the areas that spark my curiosity  
 - **Contact Form** — Lets visitors reach out via email  
 - **Downloadable CV** — Resume available for quick download  
 - **Clean UI** — Fully responsive and easy to navigate on all devices  
